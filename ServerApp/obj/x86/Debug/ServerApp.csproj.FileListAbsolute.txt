@@ -1,0 +1,10 @@
+D:\LongProjects\NetLibrary\ServerApp\bin\Debug\ServerApp.exe
+D:\LongProjects\NetLibrary\ServerApp\bin\Debug\ServerApp.pdb
+D:\LongProjects\NetLibrary\ServerApp\bin\Debug\NetLibrary.dll
+D:\LongProjects\NetLibrary\ServerApp\bin\Debug\NetLibrary.pdb
+D:\LongProjects\NetLibrary\ServerApp\obj\x86\Debug\ServerApp.csprojResolveAssemblyReference.cache
+D:\LongProjects\NetLibrary\ServerApp\obj\x86\Debug\ServerApp.Properties.Resources.resources
+D:\LongProjects\NetLibrary\ServerApp\obj\x86\Debug\ServerApp.csproj.GenerateResource.Cache
+D:\LongProjects\NetLibrary\ServerApp\obj\x86\Debug\ServerApp.exe
+D:\LongProjects\NetLibrary\ServerApp\obj\x86\Debug\ServerApp.pdb
+D:\LongProjects\NetLibrary\ServerApp\obj\x86\Debug\ServerApp.ServerForm.resources

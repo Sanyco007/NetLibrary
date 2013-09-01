@@ -1,0 +1,5 @@
+D:\LongProjects\NetLibrary\NetLibrary\bin\Debug\NetLibrary.dll
+D:\LongProjects\NetLibrary\NetLibrary\bin\Debug\NetLibrary.pdb
+D:\LongProjects\NetLibrary\NetLibrary\obj\Debug\NetLibrary.dll
+D:\LongProjects\NetLibrary\NetLibrary\obj\Debug\NetLibrary.pdb
+D:\LongProjects\NetLibrary\NetLibrary\obj\Debug\NetLibrary.csprojResolveAssemblyReference.cache

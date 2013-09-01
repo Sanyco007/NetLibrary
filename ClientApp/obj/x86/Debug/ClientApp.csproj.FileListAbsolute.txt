@@ -1,0 +1,10 @@
+D:\LongProjects\NetLibrary\ClientApp\bin\Debug\ClientApp.exe
+D:\LongProjects\NetLibrary\ClientApp\bin\Debug\ClientApp.pdb
+D:\LongProjects\NetLibrary\ClientApp\obj\x86\Debug\ClientApp.Properties.Resources.resources
+D:\LongProjects\NetLibrary\ClientApp\obj\x86\Debug\ClientApp.csproj.GenerateResource.Cache
+D:\LongProjects\NetLibrary\ClientApp\obj\x86\Debug\ClientApp.exe
+D:\LongProjects\NetLibrary\ClientApp\obj\x86\Debug\ClientApp.pdb
+D:\LongProjects\NetLibrary\ClientApp\bin\Debug\NetLibrary.dll
+D:\LongProjects\NetLibrary\ClientApp\bin\Debug\NetLibrary.pdb
+D:\LongProjects\NetLibrary\ClientApp\obj\x86\Debug\ClientApp.csprojResolveAssemblyReference.cache
+D:\LongProjects\NetLibrary\ClientApp\obj\x86\Debug\ClientApp.Form1.resources
